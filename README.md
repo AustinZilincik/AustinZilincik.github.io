@@ -1,1 +1,1 @@
-.tk domain name obtained from freenom
+.cf domain name obtained from freenom
