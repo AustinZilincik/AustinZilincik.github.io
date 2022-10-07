@@ -213,7 +213,9 @@ const GitProfile = ({ config }) => {
                       ) : (
                         <p className="font-mono text-sm">
                           {' '}
-                          <span className="text-primary">Austin Zilincik</span>
+                          <span className="text-primary">
+                            © Austin Zilincik
+                          </span>
                         </p>
                       )}
                     </div>
