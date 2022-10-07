@@ -13,7 +13,7 @@ const config = {
   social: {
     website: 'https://AustinZilincik.github.io',
     email: 'austinezilincik@gmail.com',
-    phone: '(248) 781-0387 (business phone number)',
+    phone: '(248) 781-0387 (DID Business Phone Number)',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
