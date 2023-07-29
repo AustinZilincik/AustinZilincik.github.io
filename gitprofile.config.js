@@ -18,12 +18,16 @@ const config = {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'C++',
+    'Zig',
     'JavaScript',
+    'TypeScript'
     'Python',
     'Lua',
     'Node.js',
     'Git',
     'CSS',
+    'React',
     'Tailwind',
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -40,7 +44,7 @@ const config = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
