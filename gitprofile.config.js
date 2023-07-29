@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     email: 'austinezilincik@gmail.com',
-    phone: '(248)-270-7890‬ (Business #)',
+    phone: '(248) - 270 - 7890‬',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
