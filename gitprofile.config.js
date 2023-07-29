@@ -21,7 +21,7 @@ const config = {
     'C++',
     'Zig',
     'JavaScript',
-    'TypeScript'
+    'TypeScript',
     'Python',
     'Lua',
     'Node.js',
