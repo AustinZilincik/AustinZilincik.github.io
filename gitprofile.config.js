@@ -25,12 +25,7 @@ const config = {
     'Git',
     'CSS',
     'Tailwind',
-    'HTML'
-    'C++',
-    'TypeScript',
-    'Zig',
-    'HTML5',
-    'HTTP',
+    
   ],
   // Display blog posts from your medium or dev account. (Optional)
   googleAnalytics: {
