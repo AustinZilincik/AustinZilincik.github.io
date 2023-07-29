@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     email: 'austinezilincik@gmail.com',
-    phone: '(248) 781-0387 (Business #)',
+    phone: '(248) 270-7890‬ (Business #)',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
@@ -25,7 +25,12 @@ const config = {
     'Git',
     'CSS',
     'Tailwind',
-    'HTML',
+    'HTML'
+    'C++',
+    'TypeScript',
+    'Zig',
+    'HTML5',
+    'HTTP',
   ],
   // Display blog posts from your medium or dev account. (Optional)
   googleAnalytics: {
