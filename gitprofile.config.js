@@ -15,7 +15,6 @@ const config = {
     phone: '(248) 270-7890',
   },
   resume: {
-    fileUrl: // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
