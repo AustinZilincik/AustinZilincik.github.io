@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     email: 'austinezilincik@gmail.com',
-    phone: '(248) 270-7890',
+    phone: '(248) 709-5796',
   },
   resume: {
   },
